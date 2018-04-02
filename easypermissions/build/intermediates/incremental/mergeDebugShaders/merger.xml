@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\androidstudio\workspace\Jx_Mobile_Branch\easypermissions\src\main\shaders"/></dataSet><dataSet config="debug"><source path="D:\androidstudio\workspace\Jx_Mobile_Branch\easypermissions\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="D:\androidstudio\lx\cc\JsInterface\easypermissions\src\main\shaders"/></dataSet><dataSet config="debug"><source path="D:\androidstudio\lx\cc\JsInterface\easypermissions\src\debug\shaders"/></dataSet></merger>

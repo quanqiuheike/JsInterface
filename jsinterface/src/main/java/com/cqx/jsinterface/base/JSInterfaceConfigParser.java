@@ -47,7 +47,7 @@ public class JSInterfaceConfigParser {
             int id = context.getResources().getIdentifier("cqxjsinterface_config", "xml", context.getClass().getPackage().getName());
             if (id == 0) {
                 // If we couldn't find config.xml there, we'll look in the namespace from AndroidManifest.xml
-                id = context.getResources().getIdentifier("cqxjsiinterface_config", "xml", context.getPackageName());
+                id = context.getResources().getIdentifier("cqxjsinterface_config", "xml", context.getPackageName());
                 if (id == 0) {
                     throw new RuntimeException("res/xml/cqxjsinterface.xml is missing！");
                 }
