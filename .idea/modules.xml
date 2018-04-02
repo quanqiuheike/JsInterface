@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/FreeCC/cctestgithub.iml" filepath="$PROJECT_DIR$/FreeCC/cctestgithub.iml" />
       <module fileurl="file://$PROJECT_DIR$/JsInterface.iml" filepath="$PROJECT_DIR$/JsInterface.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cctestgithub/cctestgithub.iml" filepath="$PROJECT_DIR$/cctestgithub/cctestgithub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easypermissions/easypermissions.iml" filepath="$PROJECT_DIR$/easypermissions/easypermissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsinterface/jsinterface.iml" filepath="$PROJECT_DIR$/jsinterface/jsinterface.iml" />
     </modules>
   </component>
 </project>

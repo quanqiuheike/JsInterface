@@ -8,7 +8,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/cctestgithub" />
+            <option value="$PROJECT_DIR$/FreeCC" />
+            <option value="$PROJECT_DIR$/easypermissions" />
+            <option value="$PROJECT_DIR$/jsinterface" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

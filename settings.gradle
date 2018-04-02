@@ -1,1 +1,1 @@
-include ':cctestgithub'
+include ':FreeCC', ':jsinterface', ':easypermissions'
