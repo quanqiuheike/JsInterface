@@ -1,125 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="io.cordova.hellocordova" version="1.0.0" xmlns="http://www.w3.org/ns/widgets">
+<widget id="io.cordova.hellocordova"
+    version="1.0.0"
+    xmlns="http://www.w3.org/ns/widgets">
 
     <!-- 公共JS接口插件 -->
     <feature name="tel">
-        <param name="className"
+        <param
+            name="className"
             value="com.cqx.jsinterface.plugin.tel.TelPlugin" />
     </feature>
-    <!---->
-    <!--<feature name="getPic">-->
-        <!--<param name="className"-->
-            <!--value="com.sinovatech.library.jsinterface.plugin.camera.CameraPlugin" />-->
-    <!--</feature>-->
-
-    <!--<feature name="scanBarcode">-->
-        <!--<param name="className"-->
-            <!--value="com.sinovatech.library.jsinterface.plugin.barcode.ScanBarcodePlugin" />-->
-    <!--</feature>-->
-
-    <!--<feature name="selectOneContact">-->
-        <!--<param name="className"-->
-            <!--value="com.sinovatech.library.jsinterface.plugin.contact.SelectOneContactPlugin" />-->
-    <!--</feature>-->
-
-    <!--<feature name="getContacts">-->
-        <!--<param name="className"-->
-            <!--value="com.sinovatech.library.jsinterface.plugin.contact.ContactsPlugin" />-->
-    <!--</feature>-->
-
-    <!--<feature name="getDeviceInfo">-->
-        <!--<param name="className"-->
-            <!--value="com.sinovatech.library.jsinterface.plugin.device.DeviceInfoPlugin" />-->
-    <!--</feature>-->
-
-    <!--<feature name="getNetworkStatus">-->
-        <!--<param name="className"-->
-            <!--value="com.sinovatech.library.jsinterface.plugin.device.NetworkStatusPlugin" />-->
-    <!--</feature>-->
-
-    <!--<feature name="sendSMS">-->
-        <!--<param name="className"-->
-            <!--value="com.sinovatech.library.jsinterface.plugin.sms.SendSMSPlugin" />-->
-    <!--</feature>-->
-
-    <!--<feature name="tel">-->
-        <!--<param name="className"-->
-            <!--value="com.cqx.jsinterface.plugin.tel.plugin.tel.TelPlugin" />-->
-    <!--</feature>-->
-
-    <!--<feature name="tel">-->
-        <!--<param name="className"-->
-            <!--value="com.sinovatech.jxmobileunifledplatform.plugin.tel.TelPlugin" />-->
-    <!--</feature>-->
-
-    <!--<feature name="capture">-->
-        <!--<param name="className"-->
-            <!--value="com.sinovatech.library.jsinterface.plugin.capture.CapturePlugin" />-->
-    <!--</feature>-->
-
-    <!--<feature name="wxpay">-->
-        <!--<param name="className"-->
-            <!--value="com.sinovatech.jxmobileunifledplatform.plugin.wxpay.WxPayPlugin" />-->
-    <!--</feature>-->
-
-    <!--<feature name="alipay">-->
-        <!--<param name="className"-->
-            <!--value="com.sinovatech.jxmobileunifledplatform.plugin.alipay.AliPayPlugin" />-->
-    <!--</feature>-->
-
-    <!--<feature name="nfcstart">-->
-        <!--<param name="className"-->
-            <!--value="com.sinovatech.jxmobileunifledplatform.plugin.nfc.NFCPlugin" />-->
-    <!--</feature>-->
-
-    <!--<feature name="autoLogin">-->
-        <!--<param name="className"-->
-            <!--value="com.sinovatech.jxmobileunifledplatform.plugin.login.AutoLoginPlugin" />-->
-    <!--</feature>-->
-
-    <!--<feature name="login">-->
-        <!--<param name="className"-->
-            <!--value="com.sinovatech.jxmobileunifledplatform.plugin.login.LoginPlugin" />-->
-    <!--</feature>-->
-
-    <!--<feature name="share">-->
-        <!--<param name="className"-->
-            <!--value="com.sinovatech.jxmobileunifledplatform.plugin.share.SharePlugin" />-->
-    <!--</feature>-->
-
-    <!--<feature name="getScreenshot">-->
-        <!--<param name="className"-->
-            <!--value="com.sinovatech.jxmobileunifledplatform.plugin.defaultimage.GeScreenshot" />-->
-    <!--</feature>-->
-
-    <!--<feature name="setMoreMenu">-->
-        <!--<param name="className"-->
-            <!--value="com.sinovatech.jxmobileunifledplatform.plugin.moremenu.MoreMenuPlugin" />-->
-    <!--</feature>-->
-
-    <!--<feature name="uploadlog">-->
-        <!--<param name="className"-->
-            <!--value="com.sinovatech.jxmobileunifledplatform.plugin.uploadlog.UpLoadLog" />-->
-    <!--</feature>-->
-
-    <!--<feature name="goBack">-->
-        <!--<param name="className"-->
-            <!--value="com.sinovatech.jxmobileunifledplatform.plugin.goback.GobackPlugin"/>-->
-    <!--</feature>-->
-
-    <!--<feature name="closeWeb">-->
-        <!--<param name="className"-->
-            <!--value="com.sinovatech.jxmobileunifledplatform.plugin.closeweb.CloseWebPlugin"/>-->
-    <!--</feature>-->
-
-    <!--<feature name="handleOpenApp">-->
-        <!--<param name="className"-->
-            <!--value="com.sinovatech.jxmobileunifledplatform.plugin.map.BaiduMapPlugin"/>-->
-    <!--</feature>-->
-
-    <!--<feature name="getPosition">-->
-        <!--<param name="className"-->
-            <!--value="com.sinovatech.jxmobileunifledplatform.plugin.map.PositionMapPlugin"/>-->
-    <!--</feature>-->
+    <feature name="sendSMS">
+        <param
+            name="className"
+            value="com.cqx.jsinterface.plugin.sms.SendSMSPlugin" />
+    </feature>
 
 </widget>

@@ -106,7 +106,7 @@ var app = {
                 //phoneNum必填，smsContent非必填。
                 parameter: {
                     phoneNum: "10086,10010",
-                    smsContent: "江西移动JSBrige接口测试"
+                    smsContent: "FreeCC JSBrige接口测试"
                 }
             };
 
@@ -148,8 +148,8 @@ var app = {
                 action: "share",
                 parameter: {
                     shareType: "URL",
-                    shareTitle: "江西移动标题",
-                    shareContent: "江西移动内容XXXXXXXXXXXXXXXXX",
+                    shareTitle: "FreeCC 标题",
+                    shareContent: "FreeCC 内容XXXXXXXXXXXXXXXXX",
                     shareURL: "http://www.100086.com",
                     shareIconURL: "http://jquery.cuishifeng.cn/images/head_4fa80ea.jpg"
                 }
